@@ -34,12 +34,12 @@ Start the program in docker or locally i.e
 Follow the given instruction! There is lots of error handling, so no need to
 worry from the user's side.
 
-# The date
+## The date
 can be given as e.g 1 Jan 2021, 1/1 2018, January 1 2020. It can find the date
 no matter what, unless multiple dates are given or if it's outside of the
 datasets range.
 
-# The country
+## The country
 can be given three/two digit ISO code or as just the name e.g Sweden. Not: not
 case sensetive!
 
