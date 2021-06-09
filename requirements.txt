@@ -1,2 +1,3 @@
 pandas==1.2.4
 holidays==0.11.1
+datefinder==0.7.1
