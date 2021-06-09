@@ -17,7 +17,7 @@ script-folder.
 
 ## Installation
 Install the requirements, excluding Python, as:
-  `>>pip install -r requirements.txt`
+  >>pip install -r requirements.txt
 
 ## Docker
 Why do the above when you can just use Docker?
@@ -25,11 +25,11 @@ Build the container by
   docker build -t python-phf .
 
 And run the interactive container using
-  `>>docker run -t -i python-phf`
+  >>docker run -t -i python-phf
 
 ## Using the Public Holiday Finder (app.py)
 Start the program in docker or locally i.e
-  `>>python app.py`
+  >>python app.py
 
 Follow the given instruction! There is lots of error handling, so no need to
 worry from the user's side.
