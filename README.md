@@ -1,5 +1,5 @@
 # Welcome to the PublicHolidayFinder program!
-## By Pontus Nordqvist <p.nordq@gmail.com>
+## By Pontus Nordqvist 
 This is for the IBM; Case Study - Data Engineering
 All tasks have been completed!
 I've made a notebook for all assignment steps, which can be found in the root
